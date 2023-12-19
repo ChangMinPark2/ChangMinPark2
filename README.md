@@ -2,6 +2,10 @@
 
 <h1></h1>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=ChangMinPark2&theme=graywhite)](https://github.com/ChangMinPark2?tab=repositories)
+
+<h1></h1>
+
 <!--
 **ChangMinPark2/ChangMinPark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
