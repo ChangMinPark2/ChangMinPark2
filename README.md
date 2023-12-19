@@ -2,6 +2,9 @@
 
 <h1></h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMinPark2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=ChangMinPark2&theme=graywhite)](https://github.com/ChangMinPark2?tab=repositories)
 
 <h1></h1>
