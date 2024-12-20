@@ -1,24 +1,13 @@
-[![박 엔드 개발자 바로가기!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Back-end%20Blog&fontSize=77&animation=fadeIn&fontAlignY=38&desc=바로가기!&descAlignY=51&descAlign=62)](https://98qkrckdals.tistory.com/)
+# Park ChangMin
 
-<h1></h1>
+<a href="https://98qkrckdals.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://hongdosan.tistory.com/"></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=ChangMinPark2&theme=graywhite)](https://github.com/ChangMinPark2?tab=repositories)
+## 주요 트러블 슈팅
+- [부하테스트 (12만 RPM)](https://98qkrckdals.tistory.com/37)
+- [캐싱 도입](https://98qkrckdals.tistory.com/36)
+- [동시성 이슈](https://98qkrckdals.tistory.com/35)
 
-<h1></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMinPark2)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**ChangMinPark2/ChangMinPark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 교육
+- 구름톤 트레이닝 풀스택 6회차 (2023.12 ~ 2024.07)
+- 삼육대학교 컴퓨터공학부 소프트웨어 전공 학사 (2017.02 ~ 2024.02)
